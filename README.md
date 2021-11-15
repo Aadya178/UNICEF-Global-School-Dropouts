@@ -7,7 +7,7 @@
 Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching around the world.
 
 <p align="center">
-<img src="https://www.worldatlas.com/r/w1200/upload/22/87/70/coral-reef-singapore-aquarium-volodymyr-goinyk.jpg" height="400" width="700">
+<img src="![image](https://user-images.githubusercontent.com/55178494/141785815-a5feb025-3cbd-4b6f-9d1d-b60c34d528bf.png)" height="400" width="700">
 </p>
 
 *[NOAA](https://www.noaa.gov/) (National Oceanic and Atmospheric Administration) understands and predicts changes in climate, weather, oceans, and coasts. It shares this with others to help conserve and manage coastal and marine ecosystems and resources.*
