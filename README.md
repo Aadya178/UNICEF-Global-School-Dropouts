@@ -4,13 +4,13 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
-Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching around the world.
+*[UNICEF](https://www.unicef.org/education) says, on any given school day, over 1 billion children around the world head to class. More children and adolescents today are enrolled in pre-primary, primary and secondary education than ever before.*
 
 <p align="center">
-<img src="![image](https://user-images.githubusercontent.com/55178494/141785815-a5feb025-3cbd-4b6f-9d1d-b60c34d528bf.png)" height="400" width="700">
+<img src="https://user-images.githubusercontent.com/55178494/141785815-a5feb025-3cbd-4b6f-9d1d-b60c34d528bf.png" height="400" width="700">
 </p>
 
-*[NOAA](https://www.noaa.gov/) (National Oceanic and Atmospheric Administration) understands and predicts changes in climate, weather, oceans, and coasts. It shares this with others to help conserve and manage coastal and marine ecosystems and resources.*
+*Yet an estimated 617 million children and adolescents around the world are unable to reach minimum proficiency levels in reading and mathematics, even though two thirds of them are in school. 11 per cent of primary-school-aged children and 20 per cent of lower-secondary-aged children are not in school at all*
 
 <!-- ABOUT THE PROJECT -->
 
@@ -53,26 +53,37 @@ Ananlysis of the NOAA reef bleaching dataset to check coral reefs' bleaching aro
 
 ## Problem Statement
 🤔
-> Coral reefs are an integral part of the ecosystem for life underwater. They protect coastal areas and provide an income source to millions of people.
-> But over the past few decades they have been affected by industrialization and other human-induced factors.
-> This has resulted in coral reef bleaching in various oceans which in turn is reducing their growth rates and making them susceptible to diseases.
+> UNICEF has collected the pupil dropout rate at different educational levels (primary, lower secondary and upper secondary) through various sources over the course of 10 years.
+> This dataset contains dropout rates based on several parameters (gender, living conditions and financial conditions) in different regions around the globe.
+> It finally mentions the total pupil dropout rate in these regions.
+> The issue is to understand the dropout rate trends globally.
 
 ## Objective
 🎯
-> The aim of coral reefs' bleaching analysis is to identify the prime factors which affect reef bleaching in different areas and to further understand how gravely each of these factors causes bleaching in different oceans.
+> The aim is to build a model that shows the significance of each factor in predicting the total dropout rate.
+> This can be further used to identify the key areas to work on to bring down the `Total Dropout rate` in different regions.
+
 
 ## Dataset
 📊
-> The [dataset](https://www.kaggle.com/oasisdata/noaa-reef-check-coral-bleaching-data) contains the following columns which have been identified as the prime causes of reef bleaching.
+> The dataset contains the following attributes:
 > 
-> * Storms
-> * Human Impact
-> * Siltation
-> * Dynamite
-> * Poison
-> * Sewage
-> * Industrial
-> * Commercial
+> * Region
+> * UNICEF Sub-region 1	
+> * Development Regions	
+> * Female Dropout Rate
+> * Male Dropout Rate
+> * Rural Dropout Rate
+> * Urban Dropout Rate
+> * Poorest Dropout Rate
+> * Poor Dropout Rate
+> * Middle Segment Dropout Rate
+> * Rich Dropout Rate
+> * Richest Dropout Rate
+> * Data Source	
+> * Time period
+> * Educational level	
+> * Total Dropout Rate
 
 
 ## Process Flow
