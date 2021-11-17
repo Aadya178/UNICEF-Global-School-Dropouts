@@ -169,7 +169,7 @@
 > 
 > Thus, the government authorities and related organizations should strive to educate children from different backgrounds alike.
 > 
-> Since the model has an extremely high accuracy rate of more than 99%, it can be used to predict the total dropout rates in the future too.
+> Since the model has an extremely high accuracy rate of more than 99%, it can be used to predict the total dropout rates in the future too and thus assist in bringing them down.
 
 
 
