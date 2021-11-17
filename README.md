@@ -41,7 +41,10 @@
       <a href="#model-used">Model Used</a>
     </li>
     <li>
-      <a href="#predicted-output">Predicted Output</a>
+      <a href="#model-evaluation">Model Evaluation</a>
+    </li>
+    <li>
+      <a href="#result">Result</a>
     </li>
   </ul>
 </details>
@@ -51,9 +54,9 @@
 ## Problem Statement
 🤔
 > UNICEF has collected the pupil dropout rate at different educational levels (primary, lower secondary and upper secondary) through various sources over the course of 10 years.
-> This dataset contains dropout rates based on several parameters (gender, living conditions and financial conditions) in different regions around the globe.
+> This dataset contains dropout rates at different educational levels based on several parameters (gender, living conditions and financial conditions) in different regions around the globe.
 > It finally mentions the total pupil dropout rate in these regions.
-> The issue is to understand the dropout rate trends globally.
+> The task is to analyze the dataset attributes and thus understand the dropout trends globally.
 
 ## Objective
 🎯
@@ -112,20 +115,64 @@
 
 ## Model Used
 🤖
-> The output is, given certain factors (which may cause reef bleaching), whether or not the coral reef has actually been bleached.
+> The target variable is `Total Dropout Rate`.
+>
+> Since the target variable's range can be any value from 0-100% hence it is a Regression problem.
 > 
-> The model has been trained using Logistic Regression algorithm.
-> 
-> The target variable is `Bleaching`.
+> Thus, the model has been trained using Multiple Linear Regression algorithm.
 
-## Predicted Output
+## Model Evaluation
 💯 
 > 
-> The accuracy of the output prediction is greater than 96%.
+> The accuracy of the output prediction is greater than 99%.
 > 
 > The model's accuracy is being evaluated using K-fold cross-validation.
 > 
 > The evaluation metrics include RMSE(Root Mean Square Error) and R2 score.
+
+## Result
+🏁
+>The most important predictors for the `Total Dropout Rate` of pupils in different regions globally are:
+>
+> * Female dropout rate
+>
+> * Male dropout rate
+>
+> * Rural dropout rate
+>
+> * Urban dropout rate
+>
+> * Poorest dropout rate
+>
+> * Poor dropout rate
+>
+> * Middle Segment dropout rate
+>
+> * Rich dropout rate
+>
+> * Richest dropout rate
+
+> While the other factors:
+>
+> * Region
+> 
+> * UNICEF Sub-region 1
+>
+> * Development Regions
+>
+> * Data Source
+>
+> * Time Period
+>
+> * Educational Level
+>
+> don't have a significant impact on the Total dropout rate.
+
+> The analysis shows that the students' gender, living conditions and financial wellness are crucial to determine the total dropout rates and are hence the key areas for development. While the region and educational level along with other factors are not important.
+> 
+> Thus, the government authorities and related organizations should strive to educate children from different backgrounds alike.
+> 
+> Since the model has an extremely high accuracy rate of more than 99%, it can be used to predict the total dropout rates in the future too.
 
 
 
