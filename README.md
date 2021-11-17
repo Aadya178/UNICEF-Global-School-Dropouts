@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/55178494/141785815-a5feb025-3cbd-4b6f-9d1d-b60c34d528bf.png" height="400" width="700">
 </p>
 
-*Yet an estimated 617 million children and adolescents around the world are unable to reach minimum proficiency levels in reading and mathematics, even though two thirds of them are in school. 11 per cent of primary-school-aged children and 20 per cent of lower-secondary-aged children are not in school at all*
+*Yet an estimated 617 million children and adolescents around the world are unable to reach minimum proficiency levels in reading and mathematics, even though two thirds of them are in school. 11 per cent of primary-school-aged children and 20 per cent of lower-secondary-aged children are not in school at all!*
 
 <!-- ABOUT THE PROJECT -->
 
