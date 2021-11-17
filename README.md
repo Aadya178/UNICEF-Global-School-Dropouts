@@ -165,7 +165,7 @@
 > * Educational Level
 > don't have a significant impact on the Total dropout rate.
 
-> The analysis shows that the students' gender, living conditions and financial wellness are crucial to determine the total dropout rates and are hence the key areas for development. While the region and educational level along with other factors are not important.
+> The analysis shows that the students' gender, living conditions and financial wellness are crucial to determine the total dropout rates and are hence the key areas for development. While the golbal regions and educational level along with other factors are not very important.
 > 
 > Thus, the government authorities and related organizations should strive to educate children from different backgrounds alike.
 > 
