@@ -43,9 +43,6 @@
     <li>
       <a href="#predicted-output">Predicted Output</a>
     </li>
-    <li>
-      <a href="#references">References</a>
-    </li>
   </ul>
 </details>
 
@@ -113,10 +110,6 @@
 > The data has been analyzed using the following 3 methods:
 > 
 > 1. [Jupyter Notebook](https://github.com/Aadya178/NOAA-Check-Reef-Bleaching/blob/main/NOAA%20Reef%20Bleaching.ipynb)
-> 
-> 2. [Zoho Analytics](https://github.com/Aadya178/NOAA-Check-Reef-Bleaching/blob/main/Zoho%20Analytics.md)
-> 
-> 3. [Google Spreadsheets](https://github.com/Aadya178/NOAA-Check-Reef-Bleaching/blob/main/Google%20Spreadsheets.md)
 
 ## Model Used
 🤖
@@ -134,14 +127,6 @@
 > The model's accuracy is being evaluated using K-fold cross-validation.
 > 
 > The evaluation metrics include RMSE(Root Mean Square Error) and R2 score.
-
-## References
-🔖
-> The following links were used to style this README -
-> 
-> https://github.com/othneildrew/Best-README-Template/
-> 
-> https://github.com/xnbox/DeepfakeHTTP/
 
 
 
