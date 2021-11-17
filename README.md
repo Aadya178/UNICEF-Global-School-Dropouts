@@ -109,9 +109,7 @@
 
 ## Data Analysis and Visualization
 👀
-> The data has been analyzed using the following 3 methods:
-> 
-> 1. [Jupyter Notebook](https://github.com/Aadya178/NOAA-Check-Reef-Bleaching/blob/main/NOAA%20Reef%20Bleaching.ipynb)
+> The data has been analyzed using [Jupyter Notebook](https://github.com/Aadya178/UNICEF-Global-School-Dropouts/blob/main/UNICEF%20Global%20School%20Dropouts.ipynb).
 
 ## Model Used
 🤖
@@ -165,7 +163,6 @@
 > * Time Period
 >
 > * Educational Level
->
 > don't have a significant impact on the Total dropout rate.
 
 > The analysis shows that the students' gender, living conditions and financial wellness are crucial to determine the total dropout rates and are hence the key areas for development. While the region and educational level along with other factors are not important.
