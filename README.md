@@ -88,7 +88,7 @@
 > The dataset will be analyzed in the following manner.
 > 
 > <p align="center">
-  <img src="process flow.PNG">
+  <img src="process flow.png">
   </p>
   
 ## Libraries Used
