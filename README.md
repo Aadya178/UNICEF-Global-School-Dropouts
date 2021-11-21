@@ -16,7 +16,7 @@
 
 ## Overview
 
-<details>
+<details open="open">
   <summary>Contents</summary>
   <ul>
     <li>
